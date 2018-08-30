@@ -1,7 +1,8 @@
 # KQI measurements
 For FTP
 
-Just run python file ftpKQI.py and it will save a json file with the result.
+Just run python file ftpKQI.py and it will save a json file with the result. It uses standard curl program included in most of Linux distributions.
+
 The configuration is made in hardcoded way
 
 
