@@ -11,6 +11,8 @@ Before running KQI Video Measurement code please install the following:
 
 apt-get update -q
 
+apt-get install tshark
+
 apt-get install -q -y dstat
 
 export DEBIAN_FRONTEND=noninteractive
